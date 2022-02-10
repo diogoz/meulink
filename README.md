@@ -39,7 +39,7 @@ $ npm start
 
 - O servidor do front-end inciará na porta:3000 - acesse <http://localhost:3000>
 ```
-#Autor
+# Autor
 
 Diogo Henrique Evangelista Sousa
 
