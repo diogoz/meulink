@@ -56,6 +56,15 @@
     background: transparent;
 }
 
+.text-emptyList {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 28px;
+    color: #FFF;
+}
+
 @media (max-width:715px){
     .link-container {
         width: 90%;
