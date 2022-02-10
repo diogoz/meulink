@@ -34,7 +34,7 @@ const Home = () =>{
         <div className="logo">
             <img src="/logo.png" alt="EncurtaLink Logo" />
             <h1>EncurtaLink</h1>
-            <span>Cole sue link para encurtar</span>
+            <span>Cole seu link para encurtar</span>
         </div>
 
         <div className="area-input">
